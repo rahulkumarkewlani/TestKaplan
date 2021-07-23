@@ -22,4 +22,4 @@ Below actions script will perform.
 2. Open project folder location on cmd
 3. run command "mvn test"
 
-I have also attached command line "build success" result with this repo. Kindly have a look.
+I have also attached command line "build success" screenshot with this repo. Kindly have a look.
